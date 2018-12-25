@@ -4,8 +4,6 @@
  */
 public class UserController {
     public static void main(String[] args) {
-        System.out.println("123456");
-        System.out.println("45678");
         System.out.println("000000");
     }
 }
