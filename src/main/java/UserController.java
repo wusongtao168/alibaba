@@ -5,5 +5,6 @@
 public class UserController {
     public static void main(String[] args) {
         System.out.println("hohohohohohohoho");
+        System.out.println("123456");
     }
 }
