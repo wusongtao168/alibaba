@@ -2,6 +2,7 @@ public class HelloWorld{
  public static void main(String[]args){
   System.out.print("HelloWorld!!!");
   System.out.print("TWO");
- System.out.printi("Three");
+ System.out.print("Three");
+System.out.print("four");
 }
 }
